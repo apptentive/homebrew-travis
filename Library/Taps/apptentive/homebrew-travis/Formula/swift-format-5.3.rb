@@ -1,4 +1,4 @@
-class SwiftFormat < Formula
+class SwiftFormat53 < Formula
   desc "Formatting technology for Swift source code"
   homepage "https://github.com/apple/swift-format"
   url "https://github.com/apple/swift-format.git",
